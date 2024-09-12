@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests-20240912205709" tests="2" file="tests_/testCases_/spfRecordGeneratorTests_/generateSpfRecordTests.py" time="44.848" timestamp="2024-09-12T20:57:54" failures="0" errors="0" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_all_fields_with_valid_data" time="29.184" timestamp="2024-09-12T20:57:38" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="29">
+			<!--
+            Test Case: Verify the functionality of generating SPF record with all fields with valid data.
+        -->
+		</testcase>
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_invalid_data" time="15.664" timestamp="2024-09-12T20:57:54" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="70">
+			<!--
+            Test Case: Verify that generate SPF record functionality has checks for incorrect data.
+        -->
+		</testcase>
+	</testsuite>
+	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests-20240912205709" tests="3" file="tests_/testCases_/spfRecordGeneratorTests_/domainNameFieldValidationTests.py" time="42.738" timestamp="2024-09-12T20:58:37" failures="0" errors="0" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_valid_data" time="14.531" timestamp="2024-09-12T20:58:08" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="11">
+			<!--
+            Test Case: Verify the validation of domain name field with valid data.
+        -->
+		</testcase>
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_invalid_data" time="12.997" timestamp="2024-09-12T20:58:21" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="34">
+			<!--
+            Test Case: Verify that domain name field has checks for incorrect data.
+        -->
+		</testcase>
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_without_data" time="15.210" timestamp="2024-09-12T20:58:37" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="56">
+			<!--
+            Test Case: Verify that domain name field has checks for case without data.
+        -->
+		</testcase>
+	</testsuite>
+</testsuites>
