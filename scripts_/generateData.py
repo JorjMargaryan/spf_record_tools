@@ -79,6 +79,13 @@ class SPFDataGenerator:
         domain = self.fake.domain_name()
         return domain if self.__is_domain_name_valid(domain) else self.generate_domain_name_value()
 
+    def generate_domain_name_without_spf(self):
+        """
+            Generates a random valid domain name that has no SPF records.
+        """
+        domain = self.fake.domain_name()
+        return domain if not self.__is_spf_record_valid(domain) else self.generate_domain_name_without_spf()
+
     def generate_include_value(self):
         """
             Generates a random valid domain name for the include field.

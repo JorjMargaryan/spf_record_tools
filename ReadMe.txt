@@ -8,6 +8,7 @@ Automated tests for verifying the functionality of the EasyDMARC SPF Record tool
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Tests](#running-the-tests)
+- [Project Documentation](#project-documentation)
 
 ## Introduction
 
@@ -73,3 +74,11 @@ Alternatively, you can run the tests directly from your IDE by executing the `re
 - Install the Python and Test extensions if not already installed.
 - Open `regressionRunner.py` and click "Run" in the top-right corner.
 - Ensure your Python environment is correctly configured in VSCode.
+
+## Project Documentation
+
+### Test Plan
+https://docs.google.com/document/d/1VVoXHHtAYaZCDrrstTeZi4c6T8yV7YsdWXUPpDXYzM4/edit?pli=1#heading=h.11jh8p68wjwh
+
+### Test Cases
+https://docs.google.com/spreadsheets/d/1PPHfDEVofAfTKnMf4_MxYQgcvHX1JYxZuaA_SkpAOj0/edit?gid=0#gid=0

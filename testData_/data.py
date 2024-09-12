@@ -9,6 +9,7 @@ spfRecordValidatorPageUrl = "https://easydmarc.com/tools/spf-record-raw-check-va
 # SPF Record Statuses
 successStatus = "Valid"
 failStatus = "Invalid"
+noRecordStatus = "No Record"
 
 # SPF record version value syntax and type.
 spfRecordVersion = "v=spf1"
@@ -68,3 +69,6 @@ invalidExistsValues = [
 # Domain Name field validation messages
 validationMessageForInvalidData = "Please provide a valid domain"
 validationMessageForEmptyData = "This value is required."
+
+generateSpfResponseAcceptableTime = 3
+checkSpfResponseAcceptableTime = 8
