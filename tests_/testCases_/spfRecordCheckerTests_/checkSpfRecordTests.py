@@ -30,7 +30,7 @@ class CheckSPFRecordTests(BaseTest):
         domainName = self.generateDataObj.generate_include_value()
         self.spfRecordCheckerObj.fill_domain_name_field(domainName)
 
-        # Measure the time taken to generate an SPF record
+        # Measure the time taken to check an SPF record
         startTime = time.time()
         self.spfRecordCheckerObj.click_to_check_spf_button()
 
@@ -52,7 +52,7 @@ class CheckSPFRecordTests(BaseTest):
         domainName = self.generateDataObj.generate_domain_name_without_spf()
         self.spfRecordCheckerObj.fill_domain_name_field(domainName)
 
-        # Measure the time taken to generate an SPF record
+        # Measure the time taken to check an SPF record
         startTime = time.time()
         self.spfRecordCheckerObj.click_to_check_spf_button()
 
