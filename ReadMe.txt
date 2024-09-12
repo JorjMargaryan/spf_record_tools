@@ -17,9 +17,9 @@ EasyDMARC SPF Tools include the SPF Record Generator, SPF Record Checker, and SP
 
 Before starting, please make sure the following requirements are met.
 1. Python 3.x installed.
-2. A web browser (Chrome) is available. 
+2. A web browser (Chrome) is available.
 3. One of the IDEs is installed (PyCharm, VisualStudioCode, etc...)
-4. Internet access is available. 
+4. Internet access is available.
 5. The following Python packages are installed
 
     - `Selenium WebDriver`
@@ -32,7 +32,7 @@ Before starting, please make sure the following requirements are met.
     - `unittest-xml-reporting` - for generating XML report files
     - `HtmlTestReport` - for generating HTML report files
     - `dnspython` - for DNS toolkit
-  
+
 ## Installation
 
 1. Clone the repository to your local machine:
@@ -57,7 +57,7 @@ To run the tests, follow these steps:
    (file location - tests_/common_/runners_/htmlRunners_/regressionRunner.py)
    2. For generating XML report after tests are processed run regressionRunner.py
    (file location - tests_/common_/runners_/xmlRunners_/regressionRunner.py)
-      
+
 ```
     python regressionRunner.py
 ```
