@@ -1,31 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests-20240912205709" tests="2" file="tests_/testCases_/spfRecordGeneratorTests_/generateSpfRecordTests.py" time="44.848" timestamp="2024-09-12T20:57:54" failures="0" errors="0" skipped="0">
-		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_all_fields_with_valid_data" time="29.184" timestamp="2024-09-12T20:57:38" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="29">
+	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests-20240913122757" tests="2" file="tests_/testCases_/spfRecordGeneratorTests_/generateSpfRecordTests.py" time="43.032" timestamp="2024-09-13T12:28:40" failures="0" errors="0" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_all_fields_with_valid_data" time="31.594" timestamp="2024-09-13T12:28:28" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="30">
 			<!--
             Test Case: Verify the functionality of generating SPF record with all fields with valid data.
         -->
 		</testcase>
-		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_invalid_data" time="15.664" timestamp="2024-09-12T20:57:54" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="70">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests" name="test_generate_spf_record_with_invalid_data" time="11.438" timestamp="2024-09-13T12:28:40" file="..\..\..\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py" line="79">
 			<!--
             Test Case: Verify that generate SPF record functionality has checks for incorrect data.
         -->
 		</testcase>
 	</testsuite>
-	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests-20240912205709" tests="3" file="tests_/testCases_/spfRecordGeneratorTests_/domainNameFieldValidationTests.py" time="42.738" timestamp="2024-09-12T20:58:37" failures="0" errors="0" skipped="0">
-		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_valid_data" time="14.531" timestamp="2024-09-12T20:58:08" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="11">
+	<testsuite name="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests-20240913122757" tests="3" file="tests_/testCases_/spfRecordGeneratorTests_/domainNameFieldValidationTests.py" time="61.508" timestamp="2024-09-13T12:29:41" failures="0" errors="2" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_valid_data" time="14.183" timestamp="2024-09-13T12:28:54" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="11">
 			<!--
             Test Case: Verify the validation of domain name field with valid data.
         -->
 		</testcase>
-		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_invalid_data" time="12.997" timestamp="2024-09-12T20:58:21" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="34">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_with_invalid_data" time="23.355" timestamp="2024-09-13T12:29:17" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="34">
 			<!--
             Test Case: Verify that domain name field has checks for incorrect data.
         -->
+			<error type="SystemExit" message="3"><![CDATA[Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 26, in _find_element
+    element = WebDriverWait(self.driver, timeout).until(condition(locator))
+  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:
+Stacktrace:
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
+	BaseThreadInitThunk [0x76797BA9+25]
+	RtlInitializeExceptionChain [0x77C8C11B+107]
+	RtlClearBits [0x77C8C09F+191]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\tests_\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py", line 53, in test_domain_name_field_validation_with_invalid_data
+    actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
+  File "D:\Automation\spf_record_tools\pages_\spfRecordGeneratorPage.py", line 239, in get_domain_name_field_validation_message
+    messageElement = self._find_element(self.__domainNameFieldValidationMessageLocator)
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 33, in _find_element
+    exit(TIMEOUT_ERROR)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: 3
+]]></error>
 		</testcase>
-		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_without_data" time="15.210" timestamp="2024-09-12T20:58:37" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="56">
+		<testcase classname="tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests" name="test_domain_name_field_validation_without_data" time="23.970" timestamp="2024-09-13T12:29:41" file="..\..\..\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py" line="56">
 			<!--
             Test Case: Verify that domain name field has checks for case without data.
+        -->
+			<error type="SystemExit" message="3"><![CDATA[Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 26, in _find_element
+    element = WebDriverWait(self.driver, timeout).until(condition(locator))
+  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:
+Stacktrace:
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
+	BaseThreadInitThunk [0x76797BA9+25]
+	RtlInitializeExceptionChain [0x77C8C11B+107]
+	RtlClearBits [0x77C8C09F+191]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\tests_\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py", line 76, in test_domain_name_field_validation_without_data
+    actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
+  File "D:\Automation\spf_record_tools\pages_\spfRecordGeneratorPage.py", line 239, in get_domain_name_field_validation_message
+    messageElement = self._find_element(self.__domainNameFieldValidationMessageLocator)
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 33, in _find_element
+    exit(TIMEOUT_ERROR)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: 3
+]]></error>
+		</testcase>
+	</testsuite>
+	<testsuite name="tests_.testCases_.spfRecordCheckerTests_.checkSpfRecordTests.CheckSPFRecordTests-20240913122757" tests="2" file="tests_/testCases_/spfRecordCheckerTests_/checkSpfRecordTests.py" time="33.763" timestamp="2024-09-13T12:30:15" failures="0" errors="0" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordCheckerTests_.checkSpfRecordTests.CheckSPFRecordTests" name="test_check_spf_record_with_valid_data" time="19.460" timestamp="2024-09-13T12:30:01" file="..\..\..\testCases_\spfRecordCheckerTests_\checkSpfRecordTests.py" line="24">
+			<!--
+            Test Case: Verify the functionality of checking SPF record with valid data.
+        -->
+		</testcase>
+		<testcase classname="tests_.testCases_.spfRecordCheckerTests_.checkSpfRecordTests.CheckSPFRecordTests" name="test_check_spf_record_with_invalid_data" time="14.303" timestamp="2024-09-13T12:30:15" file="..\..\..\testCases_\spfRecordCheckerTests_\checkSpfRecordTests.py" line="47">
+			<!--
+            Test Case: Verify the functionality of checking SPF record with invalid data.
+        -->
+		</testcase>
+	</testsuite>
+	<testsuite name="tests_.testCases_.spfRecordValidatorTests_.validateSpfRecordTests.ValidateSPFRecordTests-20240913122757" tests="2" file="tests_/testCases_/spfRecordValidatorTests_/validateSpfRecordTests.py" time="37.897" timestamp="2024-09-13T12:30:53" failures="0" errors="0" skipped="0">
+		<testcase classname="tests_.testCases_.spfRecordValidatorTests_.validateSpfRecordTests.ValidateSPFRecordTests" name="test_validate_spf_record_with_valid_data" time="17.340" timestamp="2024-09-13T12:30:32" file="..\..\..\testCases_\spfRecordValidatorTests_\validateSpfRecordTests.py" line="24">
+			<!--
+            Test Case: Verify the functionality of validating SPF record with valid data.
+        -->
+		</testcase>
+		<testcase classname="tests_.testCases_.spfRecordValidatorTests_.validateSpfRecordTests.ValidateSPFRecordTests" name="test_validate_spf_record_with_invalid_data" time="20.558" timestamp="2024-09-13T12:30:53" file="..\..\..\testCases_\spfRecordValidatorTests_\validateSpfRecordTests.py" line="50">
+			<!--
+            Test Case: Verify the functionality of validating SPF record with invalid data.
         -->
 		</testcase>
 	</testsuite>

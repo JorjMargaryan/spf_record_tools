@@ -193,9 +193,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>Regression Suite</h1>
-<p class='attribute'><strong>Start Time:</strong> 2024-09-12 20:54:01</p>
-<p class='attribute'><strong>Duration:</strong> 0:01:27.018351</p>
-<p class='attribute'><strong>Status:</strong> Pass 3 Error 2</p>
+<p class='attribute'><strong>Start Time:</strong> 2024-09-13 12:23:00</p>
+<p class='attribute'><strong>Duration:</strong> 0:03:05.748574</p>
+<p class='attribute'><strong>Status:</strong> Pass 7 Error 2</p>
 
 <p class='description'>Regression Suite Description</p>
 </div>
@@ -225,51 +225,18 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>tests_.testCases_.spfRecordGeneratorTests_.generateSpfRecordTests.GenerateSPFRecordTests</td>
     <td>2</td>
-    <td>1</td>
+    <td>2</td>
     <td>0</td>
-    <td>1</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',2)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_generate_spf_record_with_all_fields_with_valid_data: Test Case: Verify the functionality of generating SPF record with all fields with valid data.</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
-
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft1.1: Traceback (most recent call last):
-  File "D:\Automation\spf_record_tools\tests_\testCases_\spfRecordGeneratorTests_\generateSpfRecordTests.py", line 36, in test_generate_spf_record_with_all_fields_with_valid_data
-    includeValue = self.generateDataObj.generate_include_value()
-  File "D:\Automation\spf_record_tools\scripts_\generateData.py", line 87, in generate_include_value
-    return domain if self.__is_spf_record_valid(domain) else self.generate_include_value()
-  File "D:\Automation\spf_record_tools\scripts_\generateData.py", line 29, in __is_spf_record_valid
-    answers = dns.resolver.resolve(domain, 'TXT')
-  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\dns\resolver.py", line 1565, in resolve
-    return get_default_resolver().resolve(
-  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\dns\resolver.py", line 1318, in resolve
-    (nameserver, tcp, backoff) = resolution.next_nameserver()
-  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\dns\resolver.py", line 763, in next_nameserver
-    raise NoNameservers(request=self.request, errors=self.errors)
-dns.resolver.NoNameservers: All nameservers failed to answer the query nelson.info. IN TXT: Server Do53:192.168.123.1@53 answered SERVFAIL
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_generate_spf_record_with_all_fields_with_valid_data: Test Case: Verify the functionality of generating SPF record with all fields with valid data.</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
 <tr id='pt1.2' class='hiddenRow'>
@@ -280,9 +247,9 @@ dns.resolver.NoNameservers: All nameservers failed to answer the query nelson.in
 <tr class='errorClass'>
     <td>tests_.testCases_.spfRecordGeneratorTests_.domainNameFieldValidationTests.DomainNameFieldValidationTests</td>
     <td>3</td>
-    <td>2</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>2</td>
     <td><a href="javascript:showClassDetail('c2',3)">Detail</a></td>
 </tr>
 
@@ -305,33 +272,33 @@ dns.resolver.NoNameservers: All nameservers failed to answer the query nelson.in
            [x]</a>
         </div>
         <pre>
-        
+
 ft2.2: Traceback (most recent call last):
   File "D:\Automation\spf_record_tools\pages_\basePage.py", line 26, in _find_element
     element = WebDriverWait(self.driver, timeout).until(condition(locator))
   File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
     raise TimeoutException(message, screen, stacktrace)
-selenium.common.exceptions.TimeoutException: Message: 
+selenium.common.exceptions.TimeoutException: Message:
 Stacktrace:
-	GetHandleVerifier [0x0041D933+25811]
-	(No symbol) [0x003AE314]
-	(No symbol) [0x002A2523]
-	(No symbol) [0x002E7483]
-	(No symbol) [0x002E765B]
-	(No symbol) [0x00326BA2]
-	(No symbol) [0x0030AD74]
-	(No symbol) [0x003246F0]
-	(No symbol) [0x0030AAC6]
-	(No symbol) [0x002DBEFD]
-	(No symbol) [0x002DC8FD]
-	GetHandleVerifier [0x006EF143+2981091]
-	GetHandleVerifier [0x00742FF9+3324825]
-	GetHandleVerifier [0x004AB32F+605903]
-	GetHandleVerifier [0x004B2CBC+637020]
-	(No symbol) [0x003B6F4D]
-	(No symbol) [0x003B3DD8]
-	(No symbol) [0x003B3F75]
-	(No symbol) [0x003A6406]
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
 	BaseThreadInitThunk [0x76797BA9+25]
 	RtlInitializeExceptionChain [0x77C8C11B+107]
 	RtlClearBits [0x77C8C09F+191]
@@ -341,7 +308,7 @@ During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
   File "D:\Automation\spf_record_tools\tests_\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py", line 53, in test_domain_name_field_validation_with_invalid_data
-    actualValidationMessage = spfRecordGeneratorObj.get_domain_name_field_validation_message()
+    actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
   File "D:\Automation\spf_record_tools\pages_\spfRecordGeneratorPage.py", line 239, in get_domain_name_field_validation_message
     messageElement = self._find_element(self.__domainNameFieldValidationMessageLocator)
   File "D:\Automation\spf_record_tools\pages_\basePage.py", line 33, in _find_element
@@ -358,15 +325,115 @@ SystemExit: 3
     </td>
 </tr>
 
-<tr id='pt2.3' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_domain_name_field_validation_without_data: Test Case: Verify that domain name field has checks for case without data.</div></td>
+<tr id='ft2.3' class='none'>
+    <td class='errorCase'><div class='testcase'>test_domain_name_field_validation_without_data: Test Case: Verify that domain name field has checks for case without data.</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.3')" >
+        error</a>
+
+    <div id='div_ft2.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+
+ft2.3: Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 26, in _find_element
+    element = WebDriverWait(self.driver, timeout).until(condition(locator))
+  File "C:\Users\Admin\PycharmProjects\spf_record_tools\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message:
+Stacktrace:
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
+	BaseThreadInitThunk [0x76797BA9+25]
+	RtlInitializeExceptionChain [0x77C8C11B+107]
+	RtlClearBits [0x77C8C09F+191]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Automation\spf_record_tools\tests_\testCases_\spfRecordGeneratorTests_\domainNameFieldValidationTests.py", line 76, in test_domain_name_field_validation_without_data
+    actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
+  File "D:\Automation\spf_record_tools\pages_\spfRecordGeneratorPage.py", line 239, in get_domain_name_field_validation_message
+    messageElement = self._find_element(self.__domainNameFieldValidationMessageLocator)
+  File "D:\Automation\spf_record_tools\pages_\basePage.py", line 33, in _find_element
+    exit(TIMEOUT_ERROR)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: 3
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>tests_.testCases_.spfRecordCheckerTests_.checkSpfRecordTests.CheckSPFRecordTests</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c3',2)">Detail</a></td>
+</tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_check_spf_record_with_valid_data: Test Case: Verify the functionality of checking SPF record with valid data.</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt3.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_check_spf_record_with_invalid_data: Test Case: Verify the functionality of checking SPF record with invalid data.</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr class='passClass'>
+    <td>tests_.testCases_.spfRecordValidatorTests_.validateSpfRecordTests.ValidateSPFRecordTests</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c4',2)">Detail</a></td>
+</tr>
+
+<tr id='pt4.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_validate_spf_record_with_valid_data: Test Case: Verify the functionality of validating SPF record with valid data.</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt4.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_validate_spf_record_with_invalid_data: Test Case: Verify the functionality of validating SPF record with invalid data.</div></td>
     <td colspan='5' align='center'>pass</td>
 </tr>
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>5</td>
-    <td>3</td>
+    <td>9</td>
+    <td>7</td>
     <td>0</td>
     <td>2</td>
     <td>&nbsp;</td>

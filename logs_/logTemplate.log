@@ -1,168 +1,312 @@
-12-09-2024 20:54:09 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:11 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:11 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:11 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:11 INFO An element was successfully found using the locator By: css selector, Value: .js-options-show-hide-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.80")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip4'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.88")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip6'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.115")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='a'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.118")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO An element was successfully found using the locator By: css selector, Value: [data-option='mx'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.121")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO An element was successfully found using the locator By: css selector, Value: [data-option='exists'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.124")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:13 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:14 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="847025898ae083b88c9cd412a847e5be", element="f.5DB2BAD4379D1E40B19E07ECA47206DD.d.1212C70556543FC436104274CE96604B.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:14 INFO The chrome browser (Version 128.0.6613.137) on windows has been successfully closed.
-12-09-2024 20:54:14 INFO ====== WebDriver manager ======
-12-09-2024 20:54:17 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:17 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:17 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
-12-09-2024 20:54:24 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.83")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO An element was successfully found using the locator By: css selector, Value: .js-options-show-hide-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.84")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:28 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip4'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.89")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip6'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.116")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO An element was successfully found using the locator By: css selector, Value: [data-option='a'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.119")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO An element was successfully found using the locator By: css selector, Value: [data-option='mx'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.122")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO An element was successfully found using the locator By: css selector, Value: [data-option='exists'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.125")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:29 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.21")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.21")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO An element was successfully found using the locator By: css selector, Value: [data-name='include'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.23")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.23")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip4'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.117")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.117")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip6'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.120")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.120")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:30 INFO An element was successfully found using the locator By: css selector, Value: [data-name='a'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.123")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.123")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO An element was successfully found using the locator By: css selector, Value: [data-name='mx'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.126")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.126")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO An element was successfully found using the locator By: css selector, Value: [data-name='exists'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.130")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.130")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO An element was successfully found using the locator By: id, Value: dropdownMenuButton in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:31 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.141")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:32 INFO An element was successfully found using the locator By: css selector, Value: [data-value='None'] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:32 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.142")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:32 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:32 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="4491716e5aacc2568080a01aa06ffe25", element="f.1C660B72F022756AA523C38B1B2647FE.d.C3DBFCF95EEC69D39B03C469B90BB3C8.e.143")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:33 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:34 INFO The chrome browser (Version 128.0.6613.137) on windows has been successfully closed.
-12-09-2024 20:54:34 INFO ====== WebDriver manager ======
-12-09-2024 20:54:36 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:36 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:36 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
-12-09-2024 20:54:40 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="69b2c81068d3411ec18555dd8cdff4fd", element="f.3D204916CF15FD5EC508CBFABF0202C8.d.958605E51B3E0D7C93AE9A2762CF229C.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="69b2c81068d3411ec18555dd8cdff4fd", element="f.3D204916CF15FD5EC508CBFABF0202C8.d.958605E51B3E0D7C93AE9A2762CF229C.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="69b2c81068d3411ec18555dd8cdff4fd", element="f.3D204916CF15FD5EC508CBFABF0202C8.d.958605E51B3E0D7C93AE9A2762CF229C.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:44 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="69b2c81068d3411ec18555dd8cdff4fd", element="f.3D204916CF15FD5EC508CBFABF0202C8.d.958605E51B3E0D7C93AE9A2762CF229C.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:45 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:45 INFO The chrome browser (Version 128.0.6613.137) on windows has been successfully closed.
-12-09-2024 20:54:45 INFO ====== WebDriver manager ======
-12-09-2024 20:54:47 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:47 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:54:48 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
-12-09-2024 20:54:53 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="88658a592ac30390ae6a1df945a21c01", element="f.FAFB5D92ED90DD760E990CA522A2ED96.d.6D750F0A579DB1303F08F4ADB6452567.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="88658a592ac30390ae6a1df945a21c01", element="f.FAFB5D92ED90DD760E990CA522A2ED96.d.6D750F0A579DB1303F08F4ADB6452567.e.61")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="88658a592ac30390ae6a1df945a21c01", element="f.FAFB5D92ED90DD760E990CA522A2ED96.d.6D750F0A579DB1303F08F4ADB6452567.e.61")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:55 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:54:56 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="88658a592ac30390ae6a1df945a21c01", element="f.FAFB5D92ED90DD760E990CA522A2ED96.d.6D750F0A579DB1303F08F4ADB6452567.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:06 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".parsley-errors-list"}
-  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+13-09-2024 12:23:08 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:11 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:11 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:11 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:11 INFO An element was successfully found using the locator By: css selector, Value: .js-options-show-hide-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.80")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip4'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.87")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip6'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.116")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='a'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.119")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='mx'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.122")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:12 INFO An element was successfully found using the locator By: css selector, Value: [data-option='exists'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:13 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.125")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:13 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:13 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:13 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO An element was successfully found using the locator By: css selector, Value: [data-name='include'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip4'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.117")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.117")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip6'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:18 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.120")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:19 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.120")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:21 INFO An element was successfully found using the locator By: css selector, Value: [data-name='a'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:21 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.123")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:21 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.123")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO An element was successfully found using the locator By: css selector, Value: [data-name='mx'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.126")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.126")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO An element was successfully found using the locator By: css selector, Value: [data-name='exists'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.128")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.128")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO An element was successfully found using the locator By: id, Value: dropdownMenuButton in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.141")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO An element was successfully found using the locator By: css selector, Value: [data-value='SoftFail'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.142")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:24 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="ae1a8d44ee57ae0ad87bef13da74ce5f", element="f.DBA05EF070184BD573DE8FE20BE37931.d.34AD3D679B4234A99106BEA287C1B4A3.e.145")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:26 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:26 INFO An element was successfully found using the locator By: xpath, Value: //span[@id='spf-host'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:26 INFO An element was successfully found using the locator By: id, Value: spf-type in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:26 INFO An element was successfully found using the locator By: xpath, Value: //span[@id='generated-spf-record'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:26 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:23:26 INFO ====== WebDriver manager ======
+13-09-2024 12:23:30 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:23:30 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:23:30 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:23:34 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:37 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:37 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:37 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:37 INFO An element was successfully found using the locator By: css selector, Value: .js-options-show-hide-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.80")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip4'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.88")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO An element was successfully found using the locator By: css selector, Value: [data-option='ip6'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.115")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO An element was successfully found using the locator By: css selector, Value: [data-option='a'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.118")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:38 INFO An element was successfully found using the locator By: css selector, Value: [data-option='mx'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.121")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO An element was successfully found using the locator By: css selector, Value: [data-option='exists'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.124")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO An element was successfully found using the locator By: css selector, Value: [data-name='include'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.16")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.16")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip4'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:39 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.116")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.116")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO An element was successfully found using the locator By: css selector, Value: [data-name='ip6'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.119")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.119")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO An element was successfully found using the locator By: css selector, Value: [data-name='a'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.122")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.122")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO An element was successfully found using the locator By: css selector, Value: [data-name='mx'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.125")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.125")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO An element was successfully found using the locator By: css selector, Value: [data-name='exists'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:40 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.130")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.130")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO An element was successfully found using the locator By: id, Value: dropdownMenuButton in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.139")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO An element was successfully found using the locator By: css selector, Value: [data-value='None'] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.140")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:41 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="f2b6b5e66d33d0da7bf61a3d64e41705", element="f.1476653A30B33636151839EDA69F6214.d.3D9B6E8294BB8FD999B7C8F5F354BF86.e.146")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:42 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:42 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:23:42 INFO ====== WebDriver manager ======
+13-09-2024 12:23:45 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:23:45 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:23:45 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:23:50 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:52 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:52 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:52 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="d13c03cb82dc36b5430238bef4465979", element="f.CB33CE34FC5DC463FCDF11112436B409.d.4790A47A2139D17CDADEF3B365BCEED6.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:52 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:53 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="d13c03cb82dc36b5430238bef4465979", element="f.CB33CE34FC5DC463FCDF11112436B409.d.4790A47A2139D17CDADEF3B365BCEED6.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:53 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="d13c03cb82dc36b5430238bef4465979", element="f.CB33CE34FC5DC463FCDF11112436B409.d.4790A47A2139D17CDADEF3B365BCEED6.e.14")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:53 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:53 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="d13c03cb82dc36b5430238bef4465979", element="f.CB33CE34FC5DC463FCDF11112436B409.d.4790A47A2139D17CDADEF3B365BCEED6.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:57 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:23:57 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:23:57 INFO ====== WebDriver manager ======
+13-09-2024 12:24:00 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:00 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:00 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:24:02 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:07 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:07 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:07 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="bf3628940da25a10ddd1bd557735dc75", element="f.0BB2AB34134B7FA45509213FD9A71635.d.0701C1BD3C1C0D12439B1FF4B7F6A5CB.e.73")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:07 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:07 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3628940da25a10ddd1bd557735dc75", element="f.0BB2AB34134B7FA45509213FD9A71635.d.0701C1BD3C1C0D12439B1FF4B7F6A5CB.e.56")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:08 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3628940da25a10ddd1bd557735dc75", element="f.0BB2AB34134B7FA45509213FD9A71635.d.0701C1BD3C1C0D12439B1FF4B7F6A5CB.e.56")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:08 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:08 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="bf3628940da25a10ddd1bd557735dc75", element="f.0BB2AB34134B7FA45509213FD9A71635.d.0701C1BD3C1C0D12439B1FF4B7F6A5CB.e.75")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:18 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".parsley-errors-list"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-	GetHandleVerifier [0x0041D933+25811]
-	(No symbol) [0x003AE314]
-	(No symbol) [0x002A2523]
-	(No symbol) [0x002E7483]
-	(No symbol) [0x002E765B]
-	(No symbol) [0x00326BA2]
-	(No symbol) [0x0030AD74]
-	(No symbol) [0x003246F0]
-	(No symbol) [0x0030AAC6]
-	(No symbol) [0x002DBEFD]
-	(No symbol) [0x002DC8FD]
-	GetHandleVerifier [0x006EF143+2981091]
-	GetHandleVerifier [0x00742FF9+3324825]
-	GetHandleVerifier [0x004AB32F+605903]
-	GetHandleVerifier [0x004B2CBC+637020]
-	(No symbol) [0x003B6F4D]
-	(No symbol) [0x003B3DD8]
-	(No symbol) [0x003B3F75]
-	(No symbol) [0x003A6406]
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
 	BaseThreadInitThunk [0x76797BA9+25]
 	RtlInitializeExceptionChain [0x77C8C11B+107]
 	RtlClearBits [0x77C8C09F+191]
- in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:06 ERROR Timeout error while waiting for an element. This code is used when an expected element does not appear within the specified time limit. - Message: 
+ in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:18 ERROR Timeout error while waiting for an element. This code is used when an expected element does not appear within the specified time limit. - Message:
 Stacktrace:
-	GetHandleVerifier [0x0041D933+25811]
-	(No symbol) [0x003AE314]
-	(No symbol) [0x002A2523]
-	(No symbol) [0x002E7483]
-	(No symbol) [0x002E765B]
-	(No symbol) [0x00326BA2]
-	(No symbol) [0x0030AD74]
-	(No symbol) [0x003246F0]
-	(No symbol) [0x0030AAC6]
-	(No symbol) [0x002DBEFD]
-	(No symbol) [0x002DC8FD]
-	GetHandleVerifier [0x006EF143+2981091]
-	GetHandleVerifier [0x00742FF9+3324825]
-	GetHandleVerifier [0x004AB32F+605903]
-	GetHandleVerifier [0x004B2CBC+637020]
-	(No symbol) [0x003B6F4D]
-	(No symbol) [0x003B3DD8]
-	(No symbol) [0x003B3F75]
-	(No symbol) [0x003A6406]
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
 	BaseThreadInitThunk [0x76797BA9+25]
 	RtlInitializeExceptionChain [0x77C8C11B+107]
 	RtlClearBits [0x77C8C09F+191]
 
-12-09-2024 20:55:06 INFO The chrome browser (Version 128.0.6613.137) on windows has been successfully closed.
-12-09-2024 20:55:06 INFO ====== WebDriver manager ======
-12-09-2024 20:55:09 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:55:09 INFO Get LATEST chromedriver version for google-chrome
-12-09-2024 20:55:09 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
-12-09-2024 20:55:26 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:26 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:26 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:26 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.78")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:26 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.57")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.57")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.57")>' was successfully clicked in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:27 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.57")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:28 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="bf3bc28a06bf77d5cf989b11449cb5a7", element="f.969FFA41550E37E9EF0E6957D3F0D0CF.d.258E4F6AB802D8F6026AAAE13BAC1017.e.57")>' was successfully changed in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:28 INFO An element was successfully found using the locator By: css selector, Value: .parsley-errors-list in chrome driver (Version 128.0.6613.137) on windows
-12-09-2024 20:55:28 INFO The chrome browser (Version 128.0.6613.137) on windows has been successfully closed.
+13-09-2024 12:24:19 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:24:19 INFO ====== WebDriver manager ======
+13-09-2024 12:24:21 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:21 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:21 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:24:26 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-generator using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.79")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.8")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.8")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO An element was successfully found using the locator By: css selector, Value: .js-spf-generator-submit-form-btn in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:29 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:30 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.8")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.8")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:30 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="282fc082c78dda58591eb052acf884ba", element="f.0D95464754F30B6B8E5B25FFC37A5DCF.d.B9A1A46087F28B644251BED5A63703CF.e.8")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:40 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".parsley-errors-list"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
+	BaseThreadInitThunk [0x76797BA9+25]
+	RtlInitializeExceptionChain [0x77C8C11B+107]
+	RtlClearBits [0x77C8C09F+191]
+ in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:40 ERROR Timeout error while waiting for an element. This code is used when an expected element does not appear within the specified time limit. - Message:
+Stacktrace:
+	GetHandleVerifier [0x00EDD933+25811]
+	(No symbol) [0x00E6E314]
+	(No symbol) [0x00D62523]
+	(No symbol) [0x00DA7483]
+	(No symbol) [0x00DA765B]
+	(No symbol) [0x00DE6BA2]
+	(No symbol) [0x00DCAD74]
+	(No symbol) [0x00DE46F0]
+	(No symbol) [0x00DCAAC6]
+	(No symbol) [0x00D9BEFD]
+	(No symbol) [0x00D9C8FD]
+	GetHandleVerifier [0x011AF143+2981091]
+	GetHandleVerifier [0x01202FF9+3324825]
+	GetHandleVerifier [0x00F6B32F+605903]
+	GetHandleVerifier [0x00F72CBC+637020]
+	(No symbol) [0x00E76F4D]
+	(No symbol) [0x00E73DD8]
+	(No symbol) [0x00E73F75]
+	(No symbol) [0x00E66406]
+	BaseThreadInitThunk [0x76797BA9+25]
+	RtlInitializeExceptionChain [0x77C8C11B+107]
+	RtlClearBits [0x77C8C09F+191]
+
+13-09-2024 12:24:41 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:24:41 INFO ====== WebDriver manager ======
+13-09-2024 12:24:43 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:43 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:24:43 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:24:48 INFO Successfully navigated to: https://easydmarc.com/tools/spf-lookup using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:51 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:51 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:24:51 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="0b4cc88eecb2cfc668947141de745672", element="f.7B59788AE94AE11EB714E5CC9D33E6FF.d.022C9EFC2350232921217F2ACB57EA0C.e.66")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:02 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-input in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:02 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="0b4cc88eecb2cfc668947141de745672", element="f.7B59788AE94AE11EB714E5CC9D33E6FF.d.022C9EFC2350232921217F2ACB57EA0C.e.55")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:02 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="0b4cc88eecb2cfc668947141de745672", element="f.7B59788AE94AE11EB714E5CC9D33E6FF.d.022C9EFC2350232921217F2ACB57EA0C.e.55")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:02 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:08 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="0b4cc88eecb2cfc668947141de745672", element="f.7B59788AE94AE11EB714E5CC9D33E6FF.d.022C9EFC2350232921217F2ACB57EA0C.e.70")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:08 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:08 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:25:08 INFO ====== WebDriver manager ======
+13-09-2024 12:25:11 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:11 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:11 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:25:16 INFO Successfully navigated to: https://easydmarc.com/tools/spf-lookup using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:18 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:18 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:19 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="7fb1f0627384e94af58766971de39b21", element="f.6CD2DF18CF0C1B0E3D3AFFF88704B35C.d.A36E626207A2D8153E519831BDA8FD97.e.71")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:23 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-input in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="7fb1f0627384e94af58766971de39b21", element="f.6CD2DF18CF0C1B0E3D3AFFF88704B35C.d.A36E626207A2D8153E519831BDA8FD97.e.60")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="7fb1f0627384e94af58766971de39b21", element="f.6CD2DF18CF0C1B0E3D3AFFF88704B35C.d.A36E626207A2D8153E519831BDA8FD97.e.60")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:23 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:25 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="7fb1f0627384e94af58766971de39b21", element="f.6CD2DF18CF0C1B0E3D3AFFF88704B35C.d.A36E626207A2D8153E519831BDA8FD97.e.75")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:25 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:25 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:25:25 INFO ====== WebDriver manager ======
+13-09-2024 12:25:27 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:28 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:28 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:25:32 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-raw-check-validate using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.69")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.11")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:35 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.11")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:38 INFO An element was successfully found using the locator By: id, Value: raw_record in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:38 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:38 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.12")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:38 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:40 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="6879234052109d6c1c0dad39b7adfffc", element="f.6D34579CF9AAA87F7696E40E27FC3401.d.3C0B7BF69866F55330A4CD1D97CA9425.e.81")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:40 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:40 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.
+13-09-2024 12:25:40 INFO ====== WebDriver manager ======
+13-09-2024 12:25:43 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:43 INFO Get LATEST chromedriver version for google-chrome
+13-09-2024 12:25:43 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+13-09-2024 12:25:47 INFO Successfully navigated to: https://easydmarc.com/tools/spf-record-raw-check-validate using chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:50 INFO An element was successfully found using the locator By: css selector, Value: .c-active-tools.active in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:50 INFO An element was successfully found using the locator By: class name, Value: cookie-consent-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:25:51 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.69")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:02 INFO An element was successfully found using the locator By: id, Value: domain in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.9")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.9")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO An element was successfully found using the locator By: id, Value: raw_record in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.10")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.10")>' was successfully changed in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:03 INFO An element was successfully found using the locator By: css selector, Value: .c-form-hard .eas-button in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:05 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="fdbf291e9360cd311c8fc3bbbf0d7b17", element="f.74AB99F045528FC4732064F9148FAD11.d.BA53989FE404F7D68AED4E658386E19E.e.80")>' was successfully clicked in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:06 INFO An element was successfully found using the locator By: xpath, Value: (//div[contains(@class, 'spf-lookup-box')]/span[2])[1] in chrome driver (Version 128.0.6613.138) on windows
+13-09-2024 12:26:06 INFO The chrome browser (Version 128.0.6613.138) on windows has been successfully closed.

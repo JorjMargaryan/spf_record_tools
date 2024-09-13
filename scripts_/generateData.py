@@ -152,3 +152,59 @@ class SPFDataGenerator:
             return random.choice(invalidExistsValues)
         else:
             return None
+
+    def generate_spf_record(self, valid=True, include=None, ipv4=None, ipv6=None, aRecord=None, aRecordOtherDomain=False, mxRecord=None, mxRecordOtherDomain=False, exists=None, failurePolicy=None):
+        """
+            Generates an SPF record.
+
+            Parameters:
+                - valid (bool): If True, generates a valid SPF record; if False, generates an invalid SPF record.
+                - ipv4 (bool): If True, includes an IPv4 address in the SPF record.
+                - ipv6 (bool): If True, includes an IPv6 address in the SPF record.
+                - include (bool): If True, includes an 'include' directive in the SPF record.
+                - aRecord (bool): If True, includes an 'a' directive in the SPF record.
+                - aRecordOtherDomain (bool): If True, includes an 'a' directive with another domain.
+                - mxRecord (bool): If True, includes an 'mx' directive in the SPF record.
+                - mxRecordOtherDomain (bool): If True, includes an 'mx' directive with another domain.
+                - exists (bool): If True, includes an 'exists' directive in the SPF record.
+                - failurePolicy (str): Specifies the failure policy ('Fail', 'SoftFail', 'Neutral','None', or None).
+            Returns:
+                - str: The generated SPF record.
+        """
+        spfParts = ["v=spf1"]
+
+        if include:
+            spfParts.append(f"include:{self.generate_include_value() if valid else self.generate_random_invalid_value('include')}")
+        if ipv4:
+            spfParts.append(f"ip4:{self.generate_ipv4_value() if valid else self.generate_random_invalid_value('ipv4')}")
+        if ipv6:
+            spfParts.append(f"ip6:{self.generate_ipv6_value() if valid else self.generate_random_invalid_value('ipv6')}")
+        if aRecord:
+            if aRecordOtherDomain:
+                spfParts.append(f"a:{self.generate_a_record_value() if valid else self.generate_random_invalid_value('aRecord')}")
+            else:
+                spfParts.append("a")
+        if mxRecord:
+            if mxRecordOtherDomain:
+                spfParts.append(f"mx:{self.generate_mx_record_value() if valid else self.generate_random_invalid_value('mxRecord')}")
+            else:
+                spfParts.append("mx")
+        if exists:
+            spfParts.append(f"exists:{self.generate_exists_value() if valid else self.generate_random_invalid_value('exists')}")
+
+        # Handle failure policy
+        if failurePolicy == "Fail":
+            spfParts.append("-all")
+        elif failurePolicy == "SoftFail":
+            spfParts.append("~all")
+        elif failurePolicy == "Neutral":
+            spfParts.append("?all")
+        elif failurePolicy == "None":
+            pass  # Do not append anything if "None" is explicitly given
+        elif failurePolicy is None:
+            spfParts.append("~all")  # Default to SoftFail if not provided
+        else:
+            raise ValueError(f"Invalid Failure Policy value: {failurePolicy}")
+
+        spfRecord = " ".join(spfParts)
+        return spfRecord

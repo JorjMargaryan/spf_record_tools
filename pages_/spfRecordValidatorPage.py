@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from basePage import BasePage
+from pages_.basePage import BasePage
 
 
 class SPFRecordValidatorPage(BasePage):
@@ -14,6 +14,8 @@ class SPFRecordValidatorPage(BasePage):
         self.__domainNameFieldLocator = (By.ID, "domain")
         self.__rawRecordFieldLocator = (By.ID, "raw_record")
         self.__validateSPFRecordButtonLocator = (By.CSS_SELECTOR, ".c-form-hard .eas-button")
+
+        self.__spfRecordStatusLocator = (By.XPATH, "(//div[contains(@class, 'spf-lookup-box')]/span[2])[1]")
 
     def fill_domain_name_field(self, domainName):
         """
@@ -35,3 +37,12 @@ class SPFRecordValidatorPage(BasePage):
         """
         validateSPFRecordButtonElement = self._find_element(self.__validateSPFRecordButtonLocator)
         self._click_to_element(validateSPFRecordButtonElement)
+
+    def get_validated_spf_record_status(self):
+        """
+            Gets the validated SPF record status text.
+        """
+        statusElement = self._find_element(self.__spfRecordStatusLocator)
+        statusText = self._get_element_text(statusElement)
+
+        return statusText

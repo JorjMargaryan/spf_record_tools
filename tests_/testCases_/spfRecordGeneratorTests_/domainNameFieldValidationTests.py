@@ -22,13 +22,13 @@ class DomainNameFieldValidationTests(BaseTest):
         # Act
         generateDataObj = SPFDataGenerator()
         domainName = generateDataObj.generate_domain_name_value()
-        spfRecordGeneratorObj = SPFRecordGeneratorPage(self.driver)
-        spfRecordGeneratorObj.fill_domain_name_field(domainName)
-        spfRecordGeneratorObj.click_to_generate_button()
+        spfRecordGeneratorPageObj = SPFRecordGeneratorPage(self.driver)
+        spfRecordGeneratorPageObj.fill_domain_name_field(domainName)
+        spfRecordGeneratorPageObj.click_to_generate_button()
 
         # Assertion
         from testData_.data import successStatus
-        spfRecordStatus = spfRecordGeneratorObj.get_generated_spf_record_status()
+        spfRecordStatus = spfRecordGeneratorPageObj.get_generated_spf_record_status()
         self.assertEqual(spfRecordStatus, successStatus, f"Error: Expected status must be '{successStatus}', but bot '{spfRecordStatus}'")
 
     def test_domain_name_field_validation_with_invalid_data(self):
@@ -44,13 +44,13 @@ class DomainNameFieldValidationTests(BaseTest):
         # Act
         generateDataObj = SPFDataGenerator()
         domainName = generateDataObj.generate_random_invalid_value("domain")
-        spfRecordGeneratorObj = SPFRecordGeneratorPage(self.driver)
-        spfRecordGeneratorObj.fill_domain_name_field(domainName)
-        spfRecordGeneratorObj.click_to_generate_button()
+        spfRecordGeneratorPageObj = SPFRecordGeneratorPage(self.driver)
+        spfRecordGeneratorPageObj.fill_domain_name_field(domainName)
+        spfRecordGeneratorPageObj.click_to_generate_button()
 
         # Assertion
         from testData_.data import validationMessageForInvalidData
-        actualValidationMessage = spfRecordGeneratorObj.get_domain_name_field_validation_message()
+        actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
         self.assertEqual(actualValidationMessage, validationMessageForInvalidData, f"Error:  Validation Issue - Expected message must be '{validationMessageForInvalidData}', but got '{actualValidationMessage}'")
 
     def test_domain_name_field_validation_without_data(self):
@@ -66,12 +66,12 @@ class DomainNameFieldValidationTests(BaseTest):
         # Act
         generateDataObj = SPFDataGenerator()
         domainName = generateDataObj.generate_random_invalid_value("domain")
-        spfRecordGeneratorObj = SPFRecordGeneratorPage(self.driver)
-        spfRecordGeneratorObj.fill_domain_name_field(domainName)
-        spfRecordGeneratorObj.click_to_generate_button()
-        spfRecordGeneratorObj.clear_domain_name_field()
+        spfRecordGeneratorPageObj = SPFRecordGeneratorPage(self.driver)
+        spfRecordGeneratorPageObj.fill_domain_name_field(domainName)
+        spfRecordGeneratorPageObj.click_to_generate_button()
+        spfRecordGeneratorPageObj.clear_domain_name_field()
 
         # Assertion
         from testData_.data import validationMessageForEmptyData
-        actualValidationMessage = spfRecordGeneratorObj.get_domain_name_field_validation_message()
+        actualValidationMessage = spfRecordGeneratorPageObj.get_domain_name_field_validation_message()
         self.assertEqual(actualValidationMessage, validationMessageForEmptyData, f"Error:  Validation Issue - Expected message must be '{validationMessageForEmptyData}', but got '{actualValidationMessage}'")

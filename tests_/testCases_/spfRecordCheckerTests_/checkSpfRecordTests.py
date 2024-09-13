@@ -18,7 +18,7 @@ class CheckSPFRecordTests(BaseTest):
         mainPageObj.wait_until_the_page_loads()
         mainPageObj.click_to_agree_cookies_button()
 
-        self.spfRecordCheckerObj = SPFRecordCheckerPage(self.driver)
+        self.spfRecordCheckerPageObj = SPFRecordCheckerPage(self.driver)
         self.generateDataObj = SPFDataGenerator()
 
     def test_check_spf_record_with_valid_data(self):
@@ -28,14 +28,14 @@ class CheckSPFRecordTests(BaseTest):
         from testData_.data import successStatus, checkSpfResponseAcceptableTime
         # Act
         domainName = self.generateDataObj.generate_include_value()
-        self.spfRecordCheckerObj.fill_domain_name_field(domainName)
+        self.spfRecordCheckerPageObj.fill_domain_name_field(domainName)
 
         # Measure the time taken to check an SPF record
         startTime = time.time()
-        self.spfRecordCheckerObj.click_to_check_spf_button()
+        self.spfRecordCheckerPageObj.click_to_check_spf_button()
 
         # Assertion
-        spfRecordStatus = self.spfRecordCheckerObj.get_checked_spf_record_status()
+        spfRecordStatus = self.spfRecordCheckerPageObj.get_checked_spf_record_status()
 
         endTime = time.time()
         responseTime = endTime - startTime
@@ -50,15 +50,15 @@ class CheckSPFRecordTests(BaseTest):
         """
         # Act
         domainName = self.generateDataObj.generate_domain_name_without_spf()
-        self.spfRecordCheckerObj.fill_domain_name_field(domainName)
+        self.spfRecordCheckerPageObj.fill_domain_name_field(domainName)
 
         # Measure the time taken to check an SPF record
         startTime = time.time()
-        self.spfRecordCheckerObj.click_to_check_spf_button()
+        self.spfRecordCheckerPageObj.click_to_check_spf_button()
 
         # Assertion
         from testData_.data import checkSpfResponseAcceptableTime, noRecordStatus
-        spfRecordStatus = self.spfRecordCheckerObj.get_checked_spf_record_status()
+        spfRecordStatus = self.spfRecordCheckerPageObj.get_checked_spf_record_status()
 
         endTime = time.time()
         responseTime = endTime - startTime

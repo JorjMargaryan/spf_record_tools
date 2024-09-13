@@ -72,3 +72,4 @@ validationMessageForEmptyData = "This value is required."
 
 generateSpfResponseAcceptableTime = 3
 checkSpfResponseAcceptableTime = 8
+validateSpfRecordAcceptableTime = 3
