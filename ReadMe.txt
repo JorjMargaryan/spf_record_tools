@@ -8,6 +8,7 @@ Automated tests for verifying the functionality of the EasyDMARC SPF Record tool
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Tests](#running-the-tests)
+- [Viewing the Test Report](#viewing-the-test-report)
 - [Project Documentation](#project-documentation)
 
 ## Introduction
@@ -75,10 +76,21 @@ Alternatively, you can run the tests directly from your IDE by executing the `re
 - Open `regressionRunner.py` and click "Run" in the top-right corner.
 - Ensure your Python environment is correctly configured in VSCode.
 
-## Project Documentation
+## Viewing the Test Report
+### Locate the HTML Report:
+Once the tests are complete, navigate to the `reports_` directory in project folder. Find the HTML report file there, typically named something like `report_DD-MM-YYYY_HH-MM-SS.html`.
 
+### Open the Report
+To view the report, simply open the `report_DD-MM-YYYY_HH-MM-SS.html` file by double-clicking the file, which should open it in default web browser.
+
+### Review the Report
+The HTML report will display a detailed summary of test results, including which tests passed, failed, or were skipped. It will also provide any error messages and additional details for failed tests.
+
+## Project Documentation
 ### Test Plan
+- Link to the document with the test plan.
 https://docs.google.com/document/d/1VVoXHHtAYaZCDrrstTeZi4c6T8yV7YsdWXUPpDXYzM4/edit?pli=1#heading=h.11jh8p68wjwh
 
 ### Test Cases
+- Link to the document with "Test Cases"
 https://docs.google.com/spreadsheets/d/1PPHfDEVofAfTKnMf4_MxYQgcvHX1JYxZuaA_SkpAOj0/edit?gid=0#gid=0
